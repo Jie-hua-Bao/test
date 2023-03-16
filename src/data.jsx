@@ -1,6 +1,6 @@
-// Q1
+// Q1ssss
 
-// export const people = [
+// export const peoplesdasdasd = [
 //   {
 //     id: 0,
 //     name: "Creola Katherine Johnson",
